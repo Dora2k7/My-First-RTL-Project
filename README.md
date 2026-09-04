@@ -1,4 +1,4 @@
-# First_RTL-Project_RTL-
+# My frist RTL project
 
 ![Image](image.png)
 
